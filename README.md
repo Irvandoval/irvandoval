@@ -34,16 +34,8 @@
 ### About Me
   
   - 🤔 &nbsp; I consider myself with a "never stop learning" minset.
-  - 🤓 &nbsp; 5+ Years of experience as developer (desktop, web, hybrid mobile apps)
+  - 🤓 &nbsp; 5+ Years of experience as developer (desktop, web, hybrid mobile apps).
   - 🎓 &nbsp; Informatics Engineering Bachelor's Degree.
-  - 💼 &nbsp; I’m currently working as Frontend Developer @
-      <a href="https://www.2600hz.com/">
-        <img
-          alt="2600Hz logo"
-          src="https://avatars.githubusercontent.com/u/408801?s=50&v=4"
-          width="25"
-          height="25"
-         />
-      </a>
+  - 💼 &nbsp; I’m currently working as Frontend Developer @ [2600Hz](https://www.2600hz.com/).
   - 🌱 &nbsp; Learning more about Frontend development good practices and Mobile development.
   - 🤖 &nbsp; I like Sci-Fi books and movies.
