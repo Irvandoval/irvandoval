@@ -26,11 +26,12 @@
   <img
     alt="chicken main image"
     src="https://i.pinimg.com/originals/ef/75/54/ef755473c3d60971cb4ff63c0e6846d5.gif"
+    width="400"
+    height="275"
   />
 </p>
 
-<div align="left"> 
-  <h3>About Me</h3>
+### About Me
   
   - 🤔 &nbsp; I consider myself with a "never stop learning" minset.
   - 🤓 &nbsp; 5+ Years of experience as developer (desktop, web, hybrid mobile apps)
@@ -45,5 +46,4 @@
          />
       </a>
   - 🌱 &nbsp; Learning more about Frontend development good practices and Mobile development.
-  - 🤖 &nbsp; I like Sci-Fi books and movies
-</div>
+  - 🤖 &nbsp; I like Sci-Fi books and movies.
