@@ -33,7 +33,7 @@
 
 ### About Me
   
-  - 🤔 &nbsp; I consider myself with a "never stop learning" minset.
+  - 🤔 &nbsp; I consider myself with a "never stop learning" mindset.
   - 🤓 &nbsp; 5+ Years of experience as developer (desktop, web, hybrid mobile apps).
   - 🎓 &nbsp; Informatics Engineering Bachelor's Degree.
   - 💼 &nbsp; I’m currently working as Frontend Developer @ [2600Hz](https://www.2600hz.com/).
