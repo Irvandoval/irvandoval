@@ -11,7 +11,7 @@
   <a href="https://stackoverflow.com/users/5797873/irvin-sandoval">
     <img
       alt="stackoverflow profile"
-      src="https://img.shields.io/stackexchange/stackoverflow/r/5797873?label=StackOverflow&logo=stackoverflow&style=flat-square"
+      src="https://img.shields.io/stackexchange/stackoverflow/r/5797873?order=desc&sort=reputation&site=s"
      />
   </a>
    <a href="https://www.twitter.com/irvandoval">
