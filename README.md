@@ -8,12 +8,6 @@
       src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irvandoval/"
      />
   </a>
-  <a href="https://stackoverflow.com/users/5797873/irvin-sandoval">
-    <img
-      alt="stackoverflow profile"
-      src="https://img.shields.io/stackexchange/stackoverflow/r/5797873?order=desc&sort=reputation&site=stackoverflow?label=StackOverflow&logo=stackoverflow&style=flat-square"
-     />
-  </a>
    <a href="https://www.twitter.com/irvandoval">
     <img
       alt="twitter profile"
